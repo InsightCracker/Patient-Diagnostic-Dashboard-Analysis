@@ -95,8 +95,8 @@ This dashboard solves these issues by offering a centralized analytical view of 
 ## 🛠️ Tools & Technologies  
 - Excel  
 - Power BI  
-- SQL  
-- Python  
+- Data Cleaning
+- DAX (Data Analysis Expression)
 
 
 ## 📈 Impact  
